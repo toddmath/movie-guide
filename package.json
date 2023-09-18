@@ -1,7 +1,11 @@
 {
   "name": "astro-movie-guide",
-  "type": "module",
+  "author": "Todd Matheson <tmatheson11186@gmail.com>",
+  "repository": "github:toddmath/movie-guide",
   "version": "0.0.1",
+  "license": "MIT",
+  "type": "module",
+  "private": true,
   "scripts": {
     "check": "astro check",
     "dev": "astro dev",
